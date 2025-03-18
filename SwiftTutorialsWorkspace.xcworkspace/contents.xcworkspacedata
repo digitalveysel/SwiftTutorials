@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:MyselfInSixWords/MyselfInSixWords.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChatPrototype/ChatPrototype.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OnboardingFlow/OnboardingFlow.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WeatherForecast/WeatherForecast.xcodeproj">
+   </FileRef>
+</Workspace>
